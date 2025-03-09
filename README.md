@@ -1,20 +1,19 @@
 # To-Do List
 **[URL](#):** [https://to-do-list2project.netlify.app/](https://to-do-list2project.netlify.app/)
 
-## Descripción
-To-Do List es una aplicación web simple pero efectiva para gestionar tareas diarias. Permite a los usuarios agregar, marcar como completadas y eliminar tareas, ofreciendo una solución práctica para la organización personal.
+## Description
+To-Do List is a simple yet effective web application for managing daily tasks. It allows users to add, mark as completed, and delete tasks, providing a practical solution for personal organization.
 
-## Características
-- Agregar nuevas tareas con un solo clic.
-- Marcar tareas como completadas.
-- Eliminar tareas individuales.
-- Diseño minimalista y fácil de usar.
+## Features
+- Add new tasks with a single click.
+- Mark tasks as completed.
+- Delete individual tasks.
+- Minimalist and user-friendly design.
 
-## Tecnologías utilizadas (estimadas)
+## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript.
-- **Almacenamiento:** LocalStorage para persistencia de datos (si aplica).
-- **Despliegue:** Netlify.
+- **Deployment:** Netlify.
 
-## Instalación y uso
-1. Accede al enlace: [https://to-do-list2project.netlify.app/](https://to-do-list2project.netlify.app/).
-2. Comienza a agregar tus tareas directamente en la interfaz.
+## Installation and Usage
+1. Access the link: [https://to-do-list2project.netlify.app/](https://to-do-list2project.netlify.app/).
+2. Start adding your tasks directly in the interface.
